@@ -2,8 +2,12 @@
 <h3 align="center">A passionate Artificial Intelligence developer from India</h3>
 
 - 📫 How to reach me **jaipathak1972@gmail.com**
-
-- ⚡ Fun fact **I Think I am Introvert**
+- 🌐 Exploring and learning **AI and Python coding**.
+-📚 Currently diving into **machine learning algorithms and their applications**.
+-💡 Passionate about technology to **solve real-world problems**.
+-🎸 In my free time, **I enjoy reading others code and experimenting with them**.
+-☕ **Coffee Addicted** and **coding** !
+- ⚡ Fun fact **I an Introvert n Extrovert **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
