@@ -9,6 +9,18 @@
 <p align="left">
 <!-- Add your social links here -->
 </p>
+<div class="about-me">
+      <h3>About Me:</h3>
+      <p>
+        I am a recent graduate with a keen interest in Artificial Intelligence. My journey into the world of AI began during my high school years, and since then, I have been fascinated by the endless possibilities that AI offers in solving complex problems and making a positive impact on the world.
+      </p>
+      <p>
+        In addition to my academic achievements, I am proficient in various AI tools and programming languages, with a strong command of Python. I have hands-on experience with technologies like TensorFlow, PyTorch, and scikit-learn, allowing me to develop and implement AI models efficiently.
+      </p>
+      <p>
+        Outside the realm of AI, I enjoy exploring new technologies, contributing to open-source projects, and continuously enhancing my skills. I am a firm believer in the power of collaboration and am always eager to connect with fellow AI enthusiasts, developers, and professionals.
+      </p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
