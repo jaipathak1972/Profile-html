@@ -25,71 +25,80 @@
         Outside the realm of AI, I enjoy exploring new technologies, contributing to open-source projects, and continuously enhancing my skills. I am a firm believer in the power of collaboration and am always eager to connect with fellow AI enthusiasts, developers, and professionals.
       </p>
 </div>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- Blender 4.0.2 is the latest version as of now [^1^][37] -->
+
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-59-1175248.png?f=webp&w=256" alt="c" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- C11 is the latest standard for the C programming language [^2^][8] -->
+
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-css3-8-1175200.png?f=webp&w=256" alt="css3" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- CSS Snapshot 2023 is the latest version [^3^][36] -->
+
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- Django 5.0.1 is the latest version as of now [^4^][9] -->
+
+
+
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=webp&w=256" alt="flask" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- Flask 3.0.0 is the latest version as of now [^5^][29] -->
+<br>
+
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-bottom: 10;"/> 
   </a> 
-  <!-- Git 2.43.0 is the latest version as of now [^6^][1] -->
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256" alt="html5" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- HTML5 is the latest version [^7^][22] -->
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-21-1174928.png?f=webp&w=256" alt="linux" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- Linux has many distributions, you can choose the one that fits your needs [^8^][13] -->
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-3628940-3030165.png?f=webp&w=256" alt="mysql" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- MySQL 8.2.0 is the latest version as of now [^9^][15] -->
+
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/panda-holding-briefcase-1861475-1586362.png?f=webp&w=256" alt="pandas" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- Pandas 2.1.4 is the latest version as of now [^10^][26] -->
+<br>
+
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2038870-1720083.png?f=webp&w=256" alt="python" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- Python's latest version is 3.10.1 -->
+
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- PyTorch's latest version is 1.10.0 -->
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png?f=webp&w=256" alt="react" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- React's latest version is 17.0.2 -->
+
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-3521691-2945135.png?f=webp&w=256" alt="sass" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- Sass's latest version is 1.32.13 -->
+
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- TensorFlow's latest version is 2.7.0 -->
+<br>
+
+
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin-bottom: 10px;"/> 
   </a> 
-  <!-- Unity's latest version is 2021.2.7f1 -->
-</p>
+
+</div>
+
