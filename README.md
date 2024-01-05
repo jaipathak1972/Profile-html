@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Artificial Intelligence developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
+
 - 📫 How to reach me **jaipathak1972@gmail.com**
 - 🌐 Exploring and learning **AI and Python coding**.
 - 📚 Currently diving into **machine learning algorithms and their applications**.
