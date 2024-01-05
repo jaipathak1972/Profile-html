@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=1709769600&v=beta&t=IpLJOS7_FLM4tLXc1D0s38cxJ6-j3r1JwL8jdYRWjRs)]
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=1709769600&v=beta&t=IpLJOS7_FLM4tLXc1D0s38cxJ6-j3r1JwL8jdYRWjRs)
 <h1 align="center">Hi 👋, I'm JAI PATHAK</h1>
 <h3 align="center">A passionate Artificial Intelligence developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
